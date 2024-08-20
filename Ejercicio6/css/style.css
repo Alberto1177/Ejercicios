@@ -1,0 +1,37 @@
+body{
+    background-image: url(../assents/imagen1.webp.jpg);
+    background-size: cover; 
+}
+
+.contenedor{
+    text-align: center;
+}
+
+.conte{
+    text-align: center;
+}
+
+img{
+   width: 150px; 
+   height: 150px;
+}
+
+h1{
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+      
+}
+h2{
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      
+}
+
+p, li, a{
+    font-family: "Oswald", sans-serif;  
+    size: 30px;
+    color: aliceblue;
+}

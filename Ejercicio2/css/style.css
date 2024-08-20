@@ -1,0 +1,19 @@
+body{
+    background: rgb(141, 157, 170);;
+}
+
+.normal{
+    font-weight: bold;
+}
+
+.caja{
+    border: 3px solid red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1,h2,h3{
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+

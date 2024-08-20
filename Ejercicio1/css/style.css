@@ -1,0 +1,52 @@
+.caja1, .caja2, .caja3, .caja4, .caja5, .caja6{
+    border: 3px;
+    padding: 5px;
+    margin-block: 5px;
+}
+
+.caja1{
+    background: linear-gradient(to right, #3498db, #8e44ad);
+    text-align: center;
+    color: aliceblue;
+}
+
+.caja2{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(54,154,138,1) 52%, rgba(0,212,255,1) 100%);
+    text-align: center;
+    color: aliceblue;
+}
+.caja3{
+    margin: auto;
+    width: 200px;
+    height: 60px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(175,162,19,0.7512254901960784) 50%, rgba(0,212,255,1) 100%);
+    text-align: center;
+    color: aliceblue;
+}
+
+.caja4{
+    margin-right: auto;
+    width: 200px;
+    height: 60px;
+    background: linear-gradient(27deg, rgba(2,0,36,1) 0%, rgba(207,26,48,0.9529061624649859) 51%, rgba(0,212,255,1) 100%);
+    text-align: center;
+    color: aliceblue;
+}
+
+.caja5{
+    margin-left: auto;
+    width: 200px;
+    height: 60px;
+    background: linear-gradient(50deg, rgba(2,0,36,1) 0%, rgba(26,63,207,0.7400210084033614) 51%, rgba(0,212,255,1) 100%);
+    text-align: center;
+    color: aliceblue;
+}
+
+.caja6{
+    margin: auto;
+    width: 200px;
+    height: 60px;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    text-align: center;
+    color: aliceblue;
+}
